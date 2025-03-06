@@ -1,5 +1,5 @@
 # Car-Rental-backend
 Clone the Repo </br>
-add env file
-npm install
+add env file </br>
+npm install </br>
 npm run dev
